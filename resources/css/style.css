@@ -1,4 +1,4 @@
-	/*------------------------------------------*/
+/*------------------------------------------*/
 
 
 /*basic setup*/
@@ -278,6 +278,7 @@ input[type=submit] {
 
 /*------------our services--------------------*/
 .section-service {
+    position: absolute
 	background-color: #f4f4f4;
 	height: 90%;
 }
@@ -310,6 +311,7 @@ input[type=submit] {
 }
 
 /*------------Get in Tuuch--------------------*/
+
 .section-git {
 	height: 90%;
 }
